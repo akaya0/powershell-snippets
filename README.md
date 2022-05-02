@@ -1,2 +1,2 @@
 # powershell-snippets
-Collection of Powershell code snippets and such.
+Collection of Powershell snippets and such.
